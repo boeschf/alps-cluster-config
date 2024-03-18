@@ -14,8 +14,3 @@ packages:
     externals:
     - spec: libfabric@1.15.2.0
       prefix: /opt/cray/libfabric/1.15.2.0/
-  xpmem:
-    buildable: false
-    externals:
-    - spec: xpmem@2.8.2
-      prefix: /opt/cray/xpmem/2.8.2-1.0_3.5__g84a27a5.shasta
